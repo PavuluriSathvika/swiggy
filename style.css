@@ -232,7 +232,8 @@
 }
 .sec6 h4{
     font-weight:700;
-    margin-left: 8%;
+    margin-left:40%;
+    font-size:small;
 }
 .sec61{
     display: flex;
@@ -405,6 +406,10 @@ body {
   border-radius: 4px;
   margin-left: 4px;
   vertical-align: top;
+}
+.footer p{
+    display: flex;
+    margin-top: -20%;
 }
 
 
